@@ -8,6 +8,8 @@ public class C01_PostIncrement {
 
         int num2=num1++;
 
+
+
         if(num2 < 10){
             System.out.println(num2 + " Hello World");
         } else {
