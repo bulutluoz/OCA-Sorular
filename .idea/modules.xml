@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OracleSertificate.iml" filepath="$PROJECT_DIR$/OracleSertificate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OracleCertificate.iml" filepath="$PROJECT_DIR$/OracleCertificate.iml" />
     </modules>
   </component>
 </project>

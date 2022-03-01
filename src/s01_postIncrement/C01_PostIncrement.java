@@ -1,4 +1,4 @@
-package Increment;
+package s01_postIncrement;
 
 public class C01_PostIncrement {
 
@@ -6,7 +6,10 @@ public class C01_PostIncrement {
 
         int num1=9;
 
-        int num2=num1++;
+        int num2= num1++;
+
+
+
 
 
 
