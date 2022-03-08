@@ -1,6 +1,6 @@
-package s07;
+package s07_dataCasting;
 
-public class asd {
+public class dataCasting {
     public static void main(String[] args) {
 
         byte a = 40, b = 50;
