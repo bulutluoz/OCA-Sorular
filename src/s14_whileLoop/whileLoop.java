@@ -3,8 +3,11 @@ package s14_whileLoop;
 public class whileLoop {
     public static void main(String[] args) {
         int x = 1, y = 15;
-        //while x < 10
-        y-- ;
+
+
+        // while x < 10
+            System.out.println(y--);
+
         x++;
         System.out.println(x+", "+y);
 
