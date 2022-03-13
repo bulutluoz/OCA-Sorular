@@ -1,13 +1,16 @@
 package s17_scope;
 public class Scope {
     public static void main(String[] args) {
-        int x=1;
 
+        // soruda CTE oldugu icin yorum haline aldim
 
+        /*
         do {
             int y = 1;
             System.out.print(y++ + " ");
-            } while(x <= 10); // soruda y CTE icin x yaptim
+            } while(y <= 10);
+
+         */
 
 
         /*
