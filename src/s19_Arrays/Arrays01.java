@@ -1,20 +1,18 @@
 package s19_Arrays;
 
+import java.util.Arrays;
+
 public class Arrays01 {
     public static void main(String[] args) {
-        int sayi=10;
 
-        sayi =20;
 
-        VAR_SAYI:for (int i = 0; i <10 ; i++)
-
-        for (int j = 10; j <20 ; j++) {
-            System.out.println("hello11");
-            sayi++;
-            System.out.println(sayi);
-            if (sayi>25) continue VAR_SAYI;
-        }
-        System.out.println("hello");
+        /*
+        int[][] scores = new int[5][];
+        Object[][][] cubbies = new Object[3][0][5];
+        String beans[] = new beans[6];
+        int[][] types = new int[];
+        int[][] java = new int[][];
+         */
 
 
 
