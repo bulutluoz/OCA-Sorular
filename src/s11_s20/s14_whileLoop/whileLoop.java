@@ -1,4 +1,4 @@
-package s14_whileLoop;
+package s11_s20.s14_whileLoop;
 
 public class whileLoop {
     public static void main(String[] args) {

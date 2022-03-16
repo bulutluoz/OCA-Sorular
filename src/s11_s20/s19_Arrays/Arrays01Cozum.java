@@ -1,13 +1,11 @@
-package s19_Arrays;
-
-import java.util.Arrays;
+package s11_s20.s19_Arrays;
 
 public class Arrays01Cozum {
     public static void main(String[] args) {
 
 
         int[][] scores = new int[5][];
-        // int[][] scores = new int[5][];
+        // [null, null, null, null, null]
 
         Object[][][] cubbies = new Object[3][0][5];
         // [[], [], []]
@@ -18,6 +16,6 @@ public class Arrays01Cozum {
 
 
 
-        System.out.println(Arrays.deepToString(cubbies2));
+
     }
 }

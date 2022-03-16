@@ -1,4 +1,4 @@
-package s20_Arrays;
+package s11_s20.s20_Arrays;
 
 public class Arrays02 {
     public static void main(String[] args) {

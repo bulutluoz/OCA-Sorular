@@ -1,4 +1,4 @@
-package s18_ForLoopContinueKullanimi;
+package s11_s20.s18_ForLoopContinueKullanimi;
 
 public class ForLoopContinueKullanimi {
     public static void main(String[] args) {

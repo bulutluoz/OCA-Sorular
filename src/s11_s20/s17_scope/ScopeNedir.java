@@ -1,4 +1,4 @@
-package s17_scope;
+package s11_s20.s17_scope;
 public class ScopeNedir {
     static int sayi=5;
     String ders="Java";

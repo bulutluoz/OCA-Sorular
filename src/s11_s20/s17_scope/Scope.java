@@ -1,4 +1,4 @@
-package s17_scope;
+package s11_s20.s17_scope;
 public class Scope {
     public static void main(String[] args) {
 

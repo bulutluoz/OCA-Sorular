@@ -1,4 +1,4 @@
-package s15_doWhileLoop;
+package s11_s20.s15_doWhileLoop;
 
 public class DoWhileLoop01 {
     public static void main(String[] args) {
