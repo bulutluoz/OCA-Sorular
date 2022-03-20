@@ -16,6 +16,7 @@ public class List04 {
         C. 8. Satirdan dolayi kod calismaz.
         D. 9. Satirdan dolayi kod calismaz.
         E. Kod exception olusturur.
+
          */
     }
 }
