@@ -5,9 +5,9 @@ public class ForLoop {
         int sayi = 0;
         int sum=0;
 
-        for (sayi = 3; sayi>1 ; sayi/=sayi++) {
+        for (sayi = 3; sayi>1 ; sayi/=sayi++)
             sum+=sayi;
-        }
+
         System.out.println(sum);
     }
 }
