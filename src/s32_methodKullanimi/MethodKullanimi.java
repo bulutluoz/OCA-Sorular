@@ -16,7 +16,7 @@ public class MethodKullanimi {
         A. 10
         B. 15
         C. 25
-        D. Compiler error on line 3.
-        E. Compiler error on line 8.
-        F. None of the above.
+        D. 5.satirdan dolayi kod calismaz
+        E. 10.satirdan dolayi kod calismaz
+        F. Yukaridakilerden hicbiri.
          */

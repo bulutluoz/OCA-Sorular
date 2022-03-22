@@ -24,5 +24,5 @@ public class While_Switch {
         C. 6
         D. 7
         E. 13
-        F. The code will not compile because of line 7.
+        F. 11.satirdan dolayi kod calismaz
          */
