@@ -17,7 +17,7 @@ public class ArrayVeList {
         /*
         A. [8]
         B. [9]
-        C. Something like [Ljava.lang.String;@160bc7c0
-        D. An exception is thrown.
-        E. The code does not compile.
+        C. [Ljava.lang.String;@160bc7c0 turu bir sonuc
+        D. Kod calistirilirsa exception olusur.
+        E. Kod calismaz.
         */
