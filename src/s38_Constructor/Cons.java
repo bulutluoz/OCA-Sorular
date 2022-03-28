@@ -11,6 +11,7 @@ class ConsLength {
         System.out.print(cons1.length);
     }
     public static void main(String[] args) {
+
         cons1.length=2;
         cons2.length=8;
 
